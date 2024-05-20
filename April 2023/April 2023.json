@@ -1,0 +1,1192 @@
+{
+  "shiftAssignmentsByEmploymentIdAndShiftId": [
+    {
+      "first": "01",
+      "second": "2023-03-26-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-03-27-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-03-28-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-03-30-B2_-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-03-31-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-03-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-04-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-06-B2_-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-17-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-18-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-20-B2_-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-21-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-24-G1-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-25-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-27-B2_-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-04-28-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-05-01-B2-L"
+    },
+    {
+      "first": "01",
+      "second": "2023-05-02-B2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-03-26-G2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-03-27-S2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-03-28-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-03-29-K2_Doku-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-03-31-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-01-G2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-02-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-04-G2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-05-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-06-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-11-G2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-12-G1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-13-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-14-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-17-S2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-18-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-19-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-21-S2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-22-G1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-23-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-24-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-04-25-F1-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-05-01-K2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-05-02-K2-L"
+    },
+    {
+      "first": "02",
+      "second": "2023-05-03-K2-L"
+    },
+    {
+      "first": "03",
+      "second": "2023-03-25-G1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-03-26-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-03-29-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-03-30-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-03-31-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-03-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-06-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-07-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-08-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-09-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-10-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-13-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-14-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-15-G1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-16-F1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-26-Doku_S2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-27-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-28-G1-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-29-G2-Dipl"
+    },
+    {
+      "first": "03",
+      "second": "2023-04-30-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-03-27-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-03-28-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-03-29-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-03-30-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-11-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-12-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-13-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-15-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-16-G2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-17-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-19-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-20-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-21-K2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-22-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-23-G1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-26-G1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-27-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-04-28-F1-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-05-01-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-05-02-S2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-05-03-K2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-05-04-K2-Dipl"
+    },
+    {
+      "first": "04",
+      "second": "2023-05-05-K2-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-07-F1-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-08-F1-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-09-G2-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-10-G2-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-20-G1-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-04-29-G1-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-05-02-G1-Dipl"
+    },
+    {
+      "first": "05",
+      "second": "2023-05-03-F1-Dipl"
+    },
+    {
+      "first": "06",
+      "second": "2023-03-25-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-03-26-Pfeil-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-03-29-K2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-03-30-K2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-04-F1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-05-G1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-11-F1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-12-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-14-G1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-15-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-16-F1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-20-K2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-21-G1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-22-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-23-F1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-28-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-29-F1-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-04-30-G2-FaGe"
+    },
+    {
+      "first": "06",
+      "second": "2023-05-01-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-03-25-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-03-26-G1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-03-27-G1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-03-28-K2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-03-31-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-01-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-02-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-03-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-05-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-06-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-17-K2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-18-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-19-K2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-22-F1-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-23-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-24-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-25-G2-FaGe"
+    },
+    {
+      "first": "07",
+      "second": "2023-04-26-F1-FaGe"
+    },
+    {
+      "first": "08",
+      "second": "2023-03-27-K2-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-03-31-_G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-01-F1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-02-F1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-03-G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-06-G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-07-F1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-08-G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-09-F1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-10-G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-13-G1-MA"
+    },
+    {
+      "first": "08",
+      "second": "2023-04-14-F1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-03-28-G1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-04-04-G1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-04-18-G1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-04-25-G1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-04-26-_Doku-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-04-30-G1-MA"
+    },
+    {
+      "first": "09",
+      "second": "2023-05-01-G1-MA"
+    },
+    {
+      "first": "10",
+      "second": "2023-05-02-F1-MA"
+    },
+    {
+      "first": "10",
+      "second": "2023-05-03-K2-MA"
+    },
+    {
+      "first": "10",
+      "second": "2023-05-04-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-03-28-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-03-29-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-03-30-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-03-31-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-01-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-02-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-07-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-08-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-09-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-10-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-11-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-12-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-15-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-16-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-17-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-18-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-19-G1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-20-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-24-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-25-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-26-F1-MA"
+    },
+    {
+      "first": "11",
+      "second": "2023-04-27-G1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-03-27-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-03-28-A6-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-03-29-A6-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-03-30-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-03-31-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-03-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-04-A6-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-05-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-06-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-08-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-09-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-10-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-13-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-14-A6-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-15-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-16-A1-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-19-A6-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-20-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-21-A2-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-24-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-25-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-26-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-27-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-04-28-A2-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-05-01-A3-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-05-02-A2-MA"
+    },
+    {
+      "first": "12",
+      "second": "2023-05-03-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-03-27-A6-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-03-28-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-03-29-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-01-A1-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-02-A1-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-03-A6-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-04-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-06-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-07-A1-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-11-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-12-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-13-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-14-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-17-A3-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-18-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-19-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-24-A6-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-25-A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-04-26-Doku_A5-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-05-02-A6-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-05-03-A2-MA"
+    },
+    {
+      "first": "13",
+      "second": "2023-05-04-A2-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-03-25-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-03-26-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-03-30-A5-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-03-31-A6-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-11-A3-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-12-A3-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-17-A6-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-18-A3-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-20-A5-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-21-A6-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-22-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-23-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-27-A5-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-28-A6-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-29-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-04-30-A1-MA"
+    },
+    {
+      "first": "14",
+      "second": "2023-05-01-A6-MA"
+    },
+    {
+      "first": "15",
+      "second": "2023-03-25-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-03-26-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-03-29-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-03-30-LS_L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-03-31-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-03-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-04-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-05-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-06-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-26-LS-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-27-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-28-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-29-L1-LE"
+    },
+    {
+      "first": "15",
+      "second": "2023-04-30-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-03-27-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-03-28-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-03-29-L1_LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-03-30-LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-03-31-LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-03-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-04-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-05-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-06-LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-17-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-18-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-19-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-20-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-21-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-24-L1_LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-25-L2-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-26-L1_LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-27-LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-04-28-LS-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-05-01-L1-LE"
+    },
+    {
+      "first": "16",
+      "second": "2023-05-02-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-03-27-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-03-28-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-03-29-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-03-30-LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-03-31-LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-03-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-04-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-05-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-06-LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-17-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-18-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-19-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-20-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-21-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-24-L1_LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-25-L1-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-26-L1_LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-27-LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-04-28-LS-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-05-01-L2-LE"
+    },
+    {
+      "first": "17",
+      "second": "2023-05-02-L2-LE"
+    }
+  ]
+}
